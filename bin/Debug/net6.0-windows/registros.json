@@ -1,0 +1,4 @@
+[
+  "{\r\n  \"Producto\": \"burrito\",\r\n  \"Cantidad\": 5,\r\n  \"Precio\": 65.0,\r\n  \"TipoPago\": \"Visa / MasterCard\",\r\n  \"Descuento\": 0.0,\r\n  \"Recargo\": 0.0,\r\n  \"PrecioFinal\": 325.0\r\n}",
+  "{\r\n  \"Producto\": \"burrito\",\r\n  \"Cantidad\": 5,\r\n  \"Precio\": 65.0,\r\n  \"TipoPago\": \"Visa / MasterCard\",\r\n  \"Descuento\": 0.0,\r\n  \"Recargo\": 0.0,\r\n  \"PrecioFinal\": 325.0\r\n}"
+]
